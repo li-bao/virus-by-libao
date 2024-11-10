@@ -23,3 +23,5 @@ The app is virus!!!
 The app need Administrators!!!
 The app need Administrators!!!
 The app need Administrators!!!
+
+Run the app in VM(https://www.virtualbox.org/wiki/Downloads)
