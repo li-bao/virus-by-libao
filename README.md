@@ -1,7 +1,7 @@
 # virus-made-by-libao
 
 download link:
-https://www.mediafire.com/file/yq3w0q4j8zj0p2u/virus.exe/file
+https://reurl.cc/qvMzny
 ---------------------------------------------------------------------------------
 virus agreement will not run in shell:startup folder
 ---------------------------------------------------------------------------------
