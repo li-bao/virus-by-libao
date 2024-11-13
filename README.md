@@ -1,7 +1,10 @@
 # virus-made-by-libao
 The app need Administrators!!!
+
 The app need Administrators!!!
+
 The app need Administrators!!!
+
 
 github direct download:
 https://reurl.cc/mye6kM
@@ -20,12 +23,18 @@ assoc .bat=TXTFILE
 warning__________________________________________________________________________
 
 The app is malware!!!
-The app is malware!!!
+
 The app is malware!!!
 
+The app is malware!!!
+
+
 The app need Administrators!!!
+
 The app need Administrators!!!
+
 The app need Administrators!!!
+
 
 Run the app in VM(https://www.virtualbox.org/wiki/Downloads)
 
