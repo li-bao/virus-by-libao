@@ -1,10 +1,13 @@
 # virus-made-by-libao
-
-download link:
-https://reurl.cc/qvMzny
+The app need Administrators!!!
+The app need Administrators!!!
+The app need Administrators!!!
 
 github direct download:
 https://reurl.cc/mye6kM
+
+download link:
+https://reurl.cc/qvMzny
 ---------------------------------------------------------------------------------
 virus agreement will not run in shell:startup folder
 ---------------------------------------------------------------------------------
@@ -16,12 +19,14 @@ assoc .bat=TXTFILE
 
 warning__________________________________________________________________________
 
-The app is virus!!!
-The app is virus!!!
-The app is virus!!!
+The app is malware!!!
+The app is malware!!!
+The app is malware!!!
 
 The app need Administrators!!!
 The app need Administrators!!!
 The app need Administrators!!!
 
 Run the app in VM(https://www.virtualbox.org/wiki/Downloads)
+
+CDM = computer destroy machine
