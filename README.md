@@ -52,5 +52,3 @@ warning_________________________________________________________________________
 
 Run the app in VM(https://www.virtualbox.org/wiki/Downloads)
 
-
-CDM = computer destroy machine
