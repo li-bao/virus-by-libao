@@ -24,11 +24,9 @@ The app need Administrators!!!
 
 ------------------important------------------
 
-github direct download:
-https://reurl.cc/mye6kM
 
-download link:
-https://reurl.cc/qvMzny
+github download link:
+https://reurl.cc/749rAQ
 ---------------------------------------------------------------------------------
 virus agreement will not run in shell:startup folder
 ---------------------------------------------------------------------------------
