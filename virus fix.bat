@@ -1,7 +1,6 @@
 @echo off
-echo (If you see this message that means your computer is not altered by LibaoInfestation.exe You dont need to run this)
 echo The file need Administrators
-echo This .bat file is intended to restore system settings altered by LibaoInfestation.exe
+echo This .bat file is intended to restore system settings altered by unknown-future.exe
 echo If your computer was affected by virus.exe, you can use this file to revert changes.
 echo ---------------------------------------------------------
 echo GitHub: https://github.com/li-bao/virus-by-libao
